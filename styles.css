@@ -1,0 +1,18 @@
+main {
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+}
+
+select,
+input,
+button {
+    height: 30px;
+    width: 200px;
+}
+
+select {
+    border-radius: none;
+}
